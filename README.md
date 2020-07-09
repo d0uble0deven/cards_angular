@@ -1,3 +1,5 @@
+[Deployed Link](https://cards-ivory-eight.vercel.app/)
+
 # Cards
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.1.
